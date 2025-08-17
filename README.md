@@ -1,6 +1,10 @@
 # AIML
 This is an education repository that aims to teach AI and Machine Learning using images.
 
+To cite the website, please use:<br>
+** Pattichis, M.S. (2025). Train your own Mini AI!, Summer School, CYENS. Nicosia, Cyprus.
+https://github.com/pattichis/AIML. **
+
 ![CYENS Summer School](CYENS.jpg)
 
 ## Sessions
