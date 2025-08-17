@@ -1,6 +1,8 @@
 # AIML
 This is an education repository that aims to teach AI and Machine Learning using images.
 
+[CYENS Summer School](/CYENS.jpg)
+
 ## Sessions
 
 ### Session 1. An Introduction
