@@ -1,11 +1,13 @@
 # AIML
 This is an education repository that aims to teach AI and Machine Learning using images.
 
-The website provides Google Colab notebooks used for teaching middle-school and high-school students to program AI models using Python. The website provides material for two major projects. The first project involved the creation of a digital color video using hexadecimal (see Session 8). The second project was to train multiple AI models (see [Session 16](###-session-16.-models)).  
+The website provides Google Colab notebooks used in a workshop focused on teaching middle-school and high-school students to program AI models using Python. The website provides material for two major projects. The first project involved the creation of a digital color video using hexadecimal (see Session 8 below). The second project was to train multiple AI models (see Session 16 below).  
 
-To cite the website, please use:<br>
-** Pattichis, M.S. (2025). Train your own Mini AI!, Summer School, CYENS. Nicosia, Cyprus.
-https://github.com/pattichis/AIML. **
+The workshop was co-sponsored by CYENS, the IEEE Signal Processing Society, and the Cyprus Section of the IEEE Signal Processing Society. 
+
+If you use material from this website, please cite using:<be>
+<tt>Pattichis, M.S. (2025). Train your own Mini AI!, Summer School, CYENS. Nicosia, Cyprus.
+https://github.com/pattichis/AIML.</tt>
 
 ![CYENS Summer School](CYENS.jpg)
 
