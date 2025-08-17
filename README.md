@@ -5,6 +5,9 @@ The website provides Google Colab notebooks used in a workshop focused on teachi
 
 The workshop was co-sponsored by CYENS, the IEEE Signal Processing Society, and the Cyprus Section of the IEEE Signal Processing Society. 
 
+To run the tutorials, you will need a free Gmail account. To run the tutorials, you will only need to click on the links below. If you need a video introduction on how to run Google Colab notebooks, you can use 
+[Google Colab tutorial](https://www.youtube.com/watch?v=RLYoEyIHL6A). 
+
 If you use material from this website, please cite using:</br>
 
 APA style:</br>
@@ -15,7 +18,7 @@ IEEE style:</br>
 
 If you prefer to cite the workshop itself, you can use:</br>
 <tt>Pattichis, M.S. (2025). Train your own Mini AI!, Summer School, CYENS. Nicosia, Cyprus.
-https://github.com/pattichis/AIML.</tt>
+https://github.com/pattichis/AIML.</tt></br>
 
 ![CYENS Summer School](CYENS.jpg)
 
