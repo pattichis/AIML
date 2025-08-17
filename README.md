@@ -20,7 +20,7 @@ This is an education repository that aims to teach AI and Machine Learning using
 1. [Session 4.1 Binary numbers and hexadecimals](Session_4_binary_and_hexadecimals.ipynb)
 
 ### Session 5. Lists and black and white images
-1. [Session_5.1 Lists and black and white images](Session_5_1_Lists_and_black_and_white_images.ipynb)
+1. [Session 5.1 Lists and black and white images](Session_5_1_Lists_and_black_and_white_images.ipynb)
 
 ### Session 6. Color images
 1. [Session 6.1 Color images](Session_6_1_color_images.ipynb)
@@ -33,3 +33,32 @@ This is an education repository that aims to teach AI and Machine Learning using
 1. [Session 8.1 Create videos](Session_8_Create_videos.ipynb)
 2. [Session 8.2 Video template](Session_8_Video_template.ipynb)
 
+### Session 9. Dictionaries, functions, and object-oriented programming (OOP)
+1. [Session 9.1 Dictionaries](Session_9_1_dictionaries.ipynb)
+2. [Session 9.2 Functions](Session_9_2_functions.ipynb)
+3. [Session 9.3 Object-oriented programming with classes.ipynb](Session_9_3_oop_with_classes.ipynb)
+
+### Session 10. An introduction to neural networks, K-NN, classifiers, and clustering algorithms
+1. [Session 10.1 Introduction to neural networks](Session_10_1_NN_intro.ipynb)
+2. [Session 10.2 MNIST and K-nearest neighbor](Session_10_2_MNIST_and_K_NN.ipynb)
+3. [Session 10.3 K-means](Session_10_3_Kmeans.ipynb)
+4. [Session 10.4 Classifiers comparisons (from Scikit Learn)](Session_10_4_Classifiers_Comparisons.ipynb)
+5. [Session 10.5 Clusterings comparisons (from Scikit Learn)](Session_10_5_Clusterings_Comparisons.ipynb)
+
+### Session 11. An introduction to convolution using tensors
+1. [Session 11. An introduction to convolution using tensors](Session_11_tensors_and_convolution.ipynb)
+
+### Session 12. The linear layer
+1. [Session 12. The linear layer](Session_12_Linear_Layer.ipynb)
+
+### Session 13. Max pooling
+1. [Session 13. Max pooling](Session_13_Max_Pooling.ipynb)
+
+### Session 14. Activation functions
+1. [Session 14. Activation functions](Session_14_Activation_Functions.ipynb)
+
+### Session 15. Loss functions
+1. [Session 15. Loss functions](Session_15_Loss_functions.ipynb)
+
+### Session 16. Models
+1. [Session 16 Models](Session_16_models.ipynb)
