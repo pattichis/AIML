@@ -5,7 +5,13 @@ The website provides Google Colab notebooks used in a workshop focused on teachi
 
 The workshop was co-sponsored by CYENS, the IEEE Signal Processing Society, and the Cyprus Section of the IEEE Signal Processing Society. 
 
-If you use material from this website, please cite using:<br>
+If you use material from this website, please cite using:</br>
+APA style:</br>
+<tt>Marios S Pattichis. (2025). pattichis/AIML: An introduction to AI and Machine Learning for middle-school and high-school students (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.16888480</tt>
+IEEE style:</br>
+<tt>[1]Marios S Pattichis, “pattichis/AIML: An introduction to AI and Machine Learning for middle-school and high-school students”. Zenodo, Aug. 17, 2025. doi: 10.5281/zenodo.16888480.</tt>
+
+If you prefer to cite the workshop itself, you can use:</br>
 <tt>Pattichis, M.S. (2025). Train your own Mini AI!, Summer School, CYENS. Nicosia, Cyprus.
 https://github.com/pattichis/AIML.</tt>
 
