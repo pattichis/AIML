@@ -5,7 +5,7 @@ The website provides Google Colab notebooks used in a workshop focused on teachi
 
 The workshop was co-sponsored by CYENS, the IEEE Signal Processing Society, and the Cyprus Section of the IEEE Signal Processing Society. 
 
-If you use material from this website, please cite using:<be>
+If you use material from this website, please cite using:<br>
 <tt>Pattichis, M.S. (2025). Train your own Mini AI!, Summer School, CYENS. Nicosia, Cyprus.
 https://github.com/pattichis/AIML.</tt>
 
