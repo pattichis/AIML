@@ -17,6 +17,19 @@ This is an education repository that aims to teach AI and Machine Learning using
 2. [Session 3.2 Escape the Maze Game](Session_3_2_Escape_the_Maze_Game.ipynb)
 
 ### Session 4. Binary numbers and hexadecimals
-1. [Session 4. Binary numbers and hexadecimals](Session_4_binary_and_hexadecimals.ipynb)
+1. [Session 4.1 Binary numbers and hexadecimals](Session_4_binary_and_hexadecimals.ipynb)
 
+### Session 5. Lists and black and white images
+1. [Session_5.1 Lists and black and white images](Session_5_1_Lists_and_black_and_white_images.ipynb)
+
+### Session 6. Color images
+1. [Session 6.1 Color images](Session_6_1_color_images.ipynb)
+
+### Session 7. NumPy arrays and color image analysis
+1. [Session 7.1 NumPy Arrays](Session_7_1_NumPy_Arrays.ipynb)
+2. [Session 7.2 Color image Analysis](Session_7_2_image_analysis_with_color.ipynb)
+
+### Session 8. Video creation project
+1. [Session 8.1 Create videos](Session_8_Create_videos.ipynb)
+2. [Session 8.2 Video template](Session_8_Video_template.ipynb)
 
