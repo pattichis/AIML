@@ -83,3 +83,29 @@ https://github.com/pattichis/AIML.</tt></br>
 
 ### Session 16. Models
 1. [Session 16 Models](Session_16_models.ipynb)
+
+## Assignments
+The sessions were designed to be self-paced. Work through each Google notebook and try to answer each question.
+The following assignments help you think through the material.
+
+### Video project assignment
+Complete Sessions 1 through 8. At the end of Session 8, you are provided with a template
+to create your own color video. Use the template to create your own color video.
+
+Your video should include:
+1. Complex object movements beyond the examples.
+2. A minimum of 10 color frames.
+3. The use of NumPy array operations as demonstrated in Sessions 1 to 8.
+
+Deliverables:
+1. A PDF of the Python code used to make the video.
+2. The actual video that was generated.
+
+## Machine learning model training
+Session 16 provides parametrizable CNN models that you can train.
+Experiment with a few (at least three) CNN models and the Linear model for the given classification problem.
+
+Deliverables:
+1. A PDF of the Python code used to generate the different models. Use the provided code to print the architectures and the number of parameters.
+2. Screenshots of the achieved accuracy as a function of the number of epochs and the value of the loss function.
+3. A discussion comparing the required number of epochs, total number of parameters, final value of the loss function, and achieved accuracy.
