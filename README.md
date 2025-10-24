@@ -60,7 +60,7 @@ https://github.com/pattichis/AIML.</tt></br>
 3. [Session 9.3 Object-oriented programming with classes.ipynb](Session_9_3_oop_with_classes.ipynb)
 
 ### Session 10. An introduction to neural networks, K-NN, classifiers, and clustering algorithms
-1. [Session 10.1 Introduction to neural networks](Session_10_1_NN_intro.ipynb)
+1. [Session 10.1 Introduction to nearest neighbor classification](Session_10_1_NN_intro.ipynb)
 2. [Session 10.2 MNIST and K-nearest neighbor](Session_10_2_MNIST_and_K_NN.ipynb)
 3. [Session 10.3 K-means](Session_10_3_Kmeans.ipynb)
 4. [Session 10.4 Classifiers comparisons (from Scikit Learn)](Session_10_4_Classifiers_Comparisons.ipynb)
